@@ -1,2 +1,2 @@
-# Quantum-Wind-Speed-Forecast
+# Wind-Speed-Forecast
 Quantum Machine Learning Experiment
