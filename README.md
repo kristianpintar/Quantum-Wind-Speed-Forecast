@@ -1,2 +1,2 @@
 # Wind Speed Forecast
-Quantum Computing Machine Learning
+Hybrid Quantum Machine Learning
